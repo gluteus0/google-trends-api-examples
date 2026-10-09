@@ -1,0 +1,9 @@
+{
+  "name": "google-trends-api-examples",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
